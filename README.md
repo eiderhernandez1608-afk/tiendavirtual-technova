@@ -37,6 +37,7 @@ GitHub
 **Estado del proyecto**
 
 Prototipo de interfaces y flujos del sistema.
+avance en javaFX
 
 SEGUNDA ENTREGA
 
